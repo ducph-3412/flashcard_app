@@ -1,4 +1,5 @@
 # 🃏 Flashcards — Spaced Repetition Learning App
+URL: https://flashcard-app-gray-psi.vercel.app/
 
 A minimalist, mobile-first flashcard app with **SM-2 spaced repetition** scheduling. No server required — everything lives in your browser's `localStorage`.
 
